@@ -101,8 +101,8 @@ const uranus = createPlanet(7, uranusTexture, 176, {
   outerRadius: 12,
   texture: uranusRingTexture,
 });
-const neptune = createPlanet(7, jupiterTexture, 200);
-const pluto = createPlanet(2.8, jupiterTexture, 216);
+const neptune = createPlanet(7, neptuneTexture, 200);
+const pluto = createPlanet(2.8, plutoTexture, 216);
 
 // ---------------------- //
 
